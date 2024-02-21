@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196175715225",
+    "project_id": "design-series-46c08",
+    "storage_bucket": "design-series-46c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196175715225:android:50004bf15459003df05108",
+        "android_client_info": {
+          "package_name": "com.example.designseries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbdo-_Qv8J_l1Jxli5tDXVrMLvjoC574"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
